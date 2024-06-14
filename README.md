@@ -1,5 +1,6 @@
 # Appwebconfig
-
+## Crear esquema en mysqlworkbench
+##### Este debe tener el nombre de la database
 ## No olvidar configurar la contra y todo en el appsetting.json
 ##### Ejemplo referencial: "DefaultConnection": "server=localhost; port= 3306; user=root; password=mysql1234; database=pecuario_pro"
 ## Copiar esto en el solution / launchsettings.json
